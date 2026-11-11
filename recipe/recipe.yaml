@@ -1,5 +1,5 @@
 context:
-  version: "5.9.0"
+  version: "5.10.0"
 
 package:
   name: certbot-dns-dnsmadeeasy
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/certbot-dns-dnsmadeeasy/certbot_dns_dnsmadeeasy-${{ version }}.tar.gz
-  sha256: 4a6304c9b29c46ebbb6547bd5f9067783605f5b5e34f007205cabe5903ac6c8a
+  sha256: b1b6a05267efc89c6a53da919670bb1ecc573526bc36204eebe8e1bff4b89dd3
 
 build:
   noarch: python
